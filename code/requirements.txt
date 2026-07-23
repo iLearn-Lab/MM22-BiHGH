@@ -39,7 +39,6 @@ olefile
 omegaconf==2.1.1
 packaging
 pandas==1.4.2
-Pillow==9.0.1
 protobuf==3.19.4
 psutil==5.9.0
 pyasn1==0.4.8
